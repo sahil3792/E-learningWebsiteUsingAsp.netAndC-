@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\usersinglecourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\usersinglecourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\e-learningwebsite\\usersinglecourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\usersinglecourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\usersinglecourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\usersinglecourse.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\usersinglecourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\usersinglecourse.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\e-learningwebsite\\userdisplaycourses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
@@ -19,19 +19,19 @@
       "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\userdisplaycourses.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\e-learningwebsite\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\adminhome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\adminaddvideo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\e-learningwebsite\\adminaddvideo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\adminaddvideo.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\adminaddvideo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\e-learningwebsite\\adminaddvideo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\adminaddvideo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|c:\\users\\user\\documents\\projects\\e-learningwebsite\\e-learningwebsite\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\e-learningwebsite\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{53F5CFE0-0C1F-4AFC-A8FA-822F868BFF8F}|E-LearningWebsite\\E-LearningWebsite.csproj|solutionrelative:e-learningwebsite\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,25 +90,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UserSingleCourse.aspx.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserSingleCourse.aspx.cs",
               "RelativeDocumentMoniker": "E-LearningWebsite\\UserSingleCourse.aspx.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserSingleCourse.aspx.cs",
               "RelativeToolTip": "E-LearningWebsite\\UserSingleCourse.aspx.cs",
-              "ViewState": "AQIAAIQAAAAAAAAAAAAAwIUAAAAIAAAA",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAIwMYAAABZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T14:20:55.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserSingleCourse.aspx",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserSingleCourse.aspx",
               "RelativeDocumentMoniker": "E-LearningWebsite\\UserSingleCourse.aspx",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserSingleCourse.aspx",
-              "RelativeToolTip": "E-LearningWebsite\\UserSingleCourse.aspx",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserSingleCourse.aspx*",
+              "RelativeToolTip": "E-LearningWebsite\\UserSingleCourse.aspx*",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-07-11T13:27:06.937Z",
@@ -159,8 +159,8 @@
               "Title": "UserDisplayCourses.aspx",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserDisplayCourses.aspx",
               "RelativeDocumentMoniker": "E-LearningWebsite\\UserDisplayCourses.aspx",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserDisplayCourses.aspx*",
-              "RelativeToolTip": "E-LearningWebsite\\UserDisplayCourses.aspx*",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Projects\\E-LearningWebsite\\E-LearningWebsite\\UserDisplayCourses.aspx",
+              "RelativeToolTip": "E-LearningWebsite\\UserDisplayCourses.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-07-10T11:43:50.584Z",

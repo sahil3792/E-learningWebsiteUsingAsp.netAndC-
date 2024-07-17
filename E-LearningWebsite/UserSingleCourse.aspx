@@ -327,6 +327,7 @@
                             <div class="sidebar_feature">
                                 <div class="course_price">
                                     <asp:Label ID="price" runat="server" Text=""></asp:Label>
+                                    <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Buy Now</asp:LinkButton>
                                     
 
 
