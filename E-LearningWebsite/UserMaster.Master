@@ -78,11 +78,11 @@
 									<li><a href="contact.html">Contact</a></li>
 								</ul>
 								<div class="search_button"><i class="fa fa-search" aria-hidden="true"></i></div>
-								<div id="UserButton" class="shopping_cart" runat="server"><i class="fa fa-user" aria-hidden="true"></i></div>
+								<div id="UserButton" class="shopping_cart" runat="server"><a href="UserProfile.aspx"><i class="fa fa-user-circle" aria-hidden="true"></i></a></div>
 
 								<!-- Hamburger -->
 
-								<div class="shopping_cart"><i class="fa fa-shopping-cart" aria-hidden="true"></i></div>
+								<div class="shopping_cart"><a href="MyCourses.aspx"><i class="fa fa-leanpub" aria-hidden="true"></i></a></div>
 								<div class="hamburger menu_mm">
 									<i class="fa fa-bars menu_mm" aria-hidden="true"></i>
 								</div>

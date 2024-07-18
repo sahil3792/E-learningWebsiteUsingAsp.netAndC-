@@ -157,6 +157,7 @@
     <Content Include="images\video_play.png" />
     <Content Include="img\log.svg" />
     <Content Include="img\register.svg" />
+    <Content Include="InvoiceGeneration.aspx" />
     <Content Include="js\about.js" />
     <Content Include="js\app.js" />
     <Content Include="js\blog.js" />
@@ -212,11 +213,15 @@
     <Content Include="plugins\video-js\video-js.css" />
     <Content Include="plugins\video-js\video.min.js" />
     <Content Include="SigninSignup.aspx" />
+    <Content Include="styles\invoicestyle.css" />
     <Content Include="styles\style.css" />
+    <Content Include="styles\ViewCourse.css" />
     <Content Include="UserDisplayCourses.aspx" />
     <Content Include="UserHome.aspx" />
     <Content Include="UserSingleCourse.aspx" />
+    <Content Include="ViewCourse.aspx" />
     <Content Include="Web.config" />
+    <Content Include="MyCourses.aspx" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminAddVideo.aspx.cs">
@@ -239,6 +244,13 @@
     </Compile>
     <Compile Include="AdminMaster.Master.designer.cs">
       <DependentUpon>AdminMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="InvoiceGeneration.aspx.cs">
+      <DependentUpon>InvoiceGeneration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="InvoiceGeneration.aspx.designer.cs">
+      <DependentUpon>InvoiceGeneration.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SigninSignup.aspx.cs">
@@ -275,6 +287,20 @@
     </Compile>
     <Compile Include="UserSingleCourse.aspx.designer.cs">
       <DependentUpon>UserSingleCourse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MyCourses.aspx.cs">
+      <DependentUpon>MyCourses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyCourses.aspx.designer.cs">
+      <DependentUpon>MyCourses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ViewCourse.aspx.cs">
+      <DependentUpon>ViewCourse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewCourse.aspx.designer.cs">
+      <DependentUpon>ViewCourse.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

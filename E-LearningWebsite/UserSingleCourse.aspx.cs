@@ -133,7 +133,8 @@ namespace E_LearningWebsite
         {
             // Replace with your actual database fetching logic
             decimal price = 0;
-            string connectionString = ConfigurationManager.ConnectionStrings["Dbconn"].ConnectionString; ;
+            
+                string connectionString = ConfigurationManager.ConnectionStrings["Dbconn"].ConnectionString; ;
             string query = "SELECT CoursePrice FROM CoursesDetails WHERE CoursesID = @CourseID";
 
             using (SqlConnection conn = new SqlConnection(connectionString))
@@ -150,9 +151,16 @@ namespace E_LearningWebsite
         protected void LinkButton1_Click(object sender, EventArgs e)
         {
             int UserID = int.Parse(Session["UserID"].ToString());
+            int courseID = 0;
+            if (Request.QueryString["CourseID"] != null)
+            {
+                courseID = int.Parse(Request.QueryString["CourseID"]);
+            }
             Response.Write("<script>alert('button clicked')</script>");
             decimal totalAmount = Convert.ToDecimal(price.Text);
-            string query = $"exec StoreInOrders '{UserID}','{totalAmount}'; SELECT SCOPE_IDENTITY();";
+            DateTime currentDate = DateTime.Now;
+            DateTime currentDatePlus30Days = currentDate.AddDays(30);
+            string query = $"exec StoreInOrders '{UserID}', '{courseID}', '{totalAmount}', '{currentDate.ToString("yyyy-MM-dd")}', '{currentDatePlus30Days.ToString("yyyy-MM-dd")}'; SELECT SCOPE_IDENTITY();";
             SqlCommand cmd = new SqlCommand(query, conn);
             int orderid = Convert.ToInt32(cmd.ExecuteScalar());
 
@@ -213,8 +221,8 @@ namespace E_LearningWebsite
                 outputHTML.AppendFormat("key: '{0}',", keyId);
                 outputHTML.AppendFormat("amount: '{0}',", (totalAmount * 100).ToString());
                 outputHTML.AppendFormat("currency: 'INR',");
-                outputHTML.AppendFormat("name: 'Fruitables',");
-                outputHTML.AppendFormat("description: 'Fruits',");
+                outputHTML.AppendFormat("name: 'Unicat',");
+                outputHTML.AppendFormat("description: 'Course',");
                 outputHTML.AppendFormat("image: 'https://your_logo_url',");
                 outputHTML.AppendFormat("order_id: '{0}',", order["id"]);
                 outputHTML.Append("handler: function (response) {");
